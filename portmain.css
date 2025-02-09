@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    background-image: url("https://wallpapers.com/images/featured/dark-5u7v1sbwoi6hdzsb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y:16%;
+    background-position-x: 40%;
+}
+.hoe{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    font-size: 40px;
+    margin-left: 200px;
+}
+span{
+    color: blue;
+    cursor: pointer;
+    transition: 0.5s;
+}
+span:hover{
+    color: white;
+}
+#one{
+    margin-top: 100px;
+}
+#three{
+    margin-top: 10px;
+}
+#two{
+    margin-top: 10px;
+    margin-left: 200PX;
+    display: inline-block;
+}
+.btn{
+    color: white;
+    background-color: blue;
+    border-radius: 30px;
+    border: 2px solid white;
+    font-size: 20px;
+    padding: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-left: 280px;
+    margin-top: 10px;
+    transition: 0.5s;
+}
+.btn:hover{
+    color: blue;
+    background-color: white;
+    border-radius: 30px;
+    border: 2px solid blue;
+    font-size: 22px;
+    margin-left: 275px;
+    cursor: pointer;
+}
