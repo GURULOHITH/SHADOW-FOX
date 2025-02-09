@@ -318,7 +318,7 @@ html {
 .section-title{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
-    color: #1a1a1a;
+    color: #f8f8f8;
     z-index: 100px;
 }
 
@@ -548,7 +548,7 @@ html {
     color: transparent;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
-    color: #1a1a1a;
+    color: #f8f8f8;
 }
 
 .social-links {
